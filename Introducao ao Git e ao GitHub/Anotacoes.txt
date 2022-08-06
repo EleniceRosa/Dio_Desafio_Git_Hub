@@ -1,0 +1,9 @@
+Revisar comandos GitHub
+dir - listar diretório
+cd / - entrar diretório
+cd .. - voltar
+mkdir - criar pasta
+git status - analisar se tem pasta que não está atualizada
+git add . - add todos os arquivos
+git commit -m ""- adicionar
+git push origin main - envia commites para a nuvem
